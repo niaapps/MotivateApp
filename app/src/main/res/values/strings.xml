@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MotivateApp</string>
+    <string name="start">Hello, I\'m Happy the Cat. Click Me to hear some motivation.</string>
+    <string-array name="messages">
+    <item>You are loved!</item>
+    <item>You Matter!</item>
+    <item>No matter what is happening, you can get through it. As long as there is a tomorrow you can rest assured good things can happen.</item>
+    <item>Don\'t forget to hydrate! Drink water.</item>
+    <item>Go Easy on yourself, give yourself some credit!</item>
+    <item>You are enough as you are right now.</item>
+    <item>Aye Sir! Make effort to see the bright side!</item>
+
+</string-array>
+
+
+</resources>
