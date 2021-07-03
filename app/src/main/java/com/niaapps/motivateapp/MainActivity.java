@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
                 main.setText(array[count]);
                 count++;
 
-                if(count >= 7){
+                if(count >= array.length){
                     count = 0;
                 }
             }
